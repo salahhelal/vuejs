@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "movieImage": "https://ibb.co/YBqtbvw",
+    "products": [
+      {
+        "id": 1,
+        "name": "Produit Spider-Man 1",
+        "price": "29.99€",
+        "image": "https://ibb.co/hDSxnsJ",
+        "inStock": false
+      },
+      {
+        "id": 2,
+        "name": "Produit Spider-Man 2",
+        "price": "30.99€",
+        "image": "https://ibb.co/JnpbVwJ",
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Produit Spider-Man 3",
+        "price": "31.99€",
+        "image": "https://ibb.co/KDp3wrz",
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Produit Spider-Man 4",
+        "price": "32.99€",
+        "image": "https://ibb.co/Hdb5fk5",
+        "inStock": false
+      },
+      {
+        "id": 5,
+        "name": "Produit Spider-Man 5",
+        "price": "33.99€",
+        "image": "https://ibb.co/SDg8BJn",
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Produit Spider-Man 6",
+        "price": "32.99€",
+        "image": "https://ibb.co/L1XHB9s",
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Produit Spider-Man 7",
+        "price": "31.99€",
+        "image": "https://ibb.co/Wk5b3V7",
+        "inStock": false
+      },
+      {
+        "id": 8,
+        "name": "Produit Spider-Man 8",
+        "price": "32.99€",
+        "image": "https://ibb.co/Hx7bDRr",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "movieImage": "https://ibb.co/VgdMF8B",
+    "products": [
+      {
+        "id": 9,
+        "name": "Produit Captain America 1",
+        "price": "34.99€",
+        "image": "https://ibb.co/3Bxs9PL",
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Produit Captain America 2",
+        "price": "34.99€",
+        "image": "https://ibb.co/nLG5VGL",
+        "inStock": true
+      },
+      {
+        "id": 11,
+        "name": "Produit Captain America 3",
+        "price": "34.99€",
+        "image": "https://ibb.co/ZBg0KfV",
+        "inStock": false
+      },
+      {
+        "id": 12,
+        "name": "Produit Captain America 4",
+        "price": "34.99€",
+        "image": "https://ibb.co/ctbJyHf",
+        "inStock": true
+      },
+      {
+        "id": 13,
+        "name": "Produit Captain America 5",
+        "price": "34.99€",
+        "image": "https://ibb.co/pwhsvqK",
+        "inStock": true
+      },
+      {
+        "id": 14,
+        "name": "Produit Captain America 6",
+        "price": "34.99€",
+        "image": "https://ibb.co/QJYSMXG",
+        "inStock": null
+      },
+      {
+        "id": 15,
+        "name": "Produit Captain America 7",
+        "price": "34.99€",
+        "image": "https://ibb.co/DL3GXkd",
+        "inStock": false
+      },
+      {
+        "id": 16,
+        "name": "Produit Captain America 8",
+        "price": "34.99€",
+        "image": "https://ibb.co/mT7Zq3t",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "movieImage": "https://ibb.co/gTD3kJ4",
+    "products": [
+      {
+        "id": 17,
+        "name": "Produit Thor 1",
+        "price": "39.99€",
+        "image": "https://ibb.co/PwzZpzg",
+        "inStock": true
+      },
+      {
+        "id": 18,
+        "name": "Produit Thor 2",
+        "price": "39.99€",
+        "image": "https://ibb.co/4RchWRh",
+        "inStock": true
+      },
+      {
+        "id": 19,
+        "name": "Produit Thor 3",
+        "price": "39.99€",
+        "image": "https://ibb.co/sy1PF5K",
+        "inStock": true
+      },
+      {
+        "id": 20,
+        "name": "Produit Thor 4",
+        "price": "39.99€",
+        "image": "https://ibb.co/YLhK4t5",
+        "inStock": true
+      },
+      {
+        "id": 21,
+        "name": "Produit Thor 5",
+        "price": "39.99€",
+        "image": "https://ibb.co/d7Pdwg7",
+        "inStock": true
+      },
+      {
+        "id": 22,
+        "name": "Produit Thor 6",
+        "price": "39.99€",
+        "image": "https://ibb.co/D49xC3C",
+        "inStock": true
+      },
+      {
+        "id": 23,
+        "name": "Produit Thor 7",
+        "price": "39.99€",
+        "image": "https://ibb.co/8x52c5t",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "movieImage": "https://ibb.co/BrpmT4p",
+    "products": [
+      {
+        "id": 24,
+        "name": "Produit Iron Man 1",
+        "price": "49.99€",
+        "image": "https://ibb.co/gDQDXqn",
+        "inStock": true
+      },
+      {
+        "id": 25,
+        "name": "Produit Iron Man 2",
+        "price": "49.99€",
+        "image": "https://ibb.co/3dvjxnR",
+        "inStock": true
+      },
+      {
+        "id": 26,
+        "name": "Produit Iron Man 3",
+        "price": "49.99€",
+        "image": "https://ibb.co/2Nj6sdV",
+        "inStock": true
+      },
+      {
+        "id": 27,
+        "name": "Produit Iron Man 4",
+        "price": "49.99€",
+        "image": "https://ibb.co/HGJpRf9",
+        "inStock": false
+      },
+      {
+        "id": 28,
+        "name": "Produit Iron Man 5",
+        "price": "49.99€",
+        "image": "https://ibb.co/BnMSTkF",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "movieImage": "https://ibb.co/SmQFRXJ",
+    "products": [
+      {
+        "id": 29,
+        "name": "Produit Doctor Strange 1",
+        "price": "59.99€",
+        "image": "https://ibb.co/9NKBm05",
+        "inStock": true
+      },
+      {
+        "id": 30,
+        "name": "Produit Doctor Strange 2",
+        "price": "59.99€",
+        "image": "https://ibb.co/jH41q6f",
+        "inStock": true
+      },
+      {
+        "id": 31,
+        "name": "Produit Doctor Strange 3",
+        "price": "59.99€",
+        "image": "https://ibb.co/9wFZyDZ",
+        "inStock": true
+      },
+      {
+        "id": 32,
+        "name": "Produit Doctor Strange 4",
+        "price": "59.99€",
+        "image": "https://ibb.co/tpq2Zkm",
+        "inStock": false
+      },
+      {
+        "id": 33,
+        "name": "Produit Doctor Strange 5",
+        "price": "59.99€",
+        "image": "https://ibb.co/9V0kgyv",
+         "inStock": true
+        },
+        {
+        "id": 34,
+        "name": "Produit Doctor Strange 6",
+        "price": "59.99€",
+        "image": "https://ibb.co/WsjvNXr",
+        "inStock": false
+        },
+        {
+        "id": 35,
+        "name": "Produit Doctor Strange 7",
+        "price": "59.99€",
+        "image": "https://ibb.co/pnFd1dV",
+        "inStock": true
+        },
+        {
+        "id": 36,
+        "name": "Produit Doctor Strange 8",
+        "price": "59.99€",
+        "image": "https://ibb.co/M1RnjMy",
+        "inStock": true
+        }
+        ]
+        },
+        {
+        "id": 6,
+        "movieImage": "https://ibb.co/nBYcCpZ",
+        "products": [
+        {
+        "id": 37,
+        "name": "Produit Deadpool 1",
+        "price": "24.99€",
+        "image": "https://ibb.co/R6Hx2FG",
+        "inStock": true
+        },
+        {
+        "id": 38,
+        "name": "Produit Deadpool 2",
+        "price": "24.99€",
+        "image": "https://ibb.co/bvmWnWy",
+        "inStock": true
+        },
+        {
+        "id": 39,
+        "name": "Produit Deadpool 3",
+        "price": "24.99€",
+        "image": "https://ibb.co/PNTc1jq",
+        "inStock": true
+        },
+        {
+        "id": 40,
+        "name": "Produit Deadpool 4",
+        "price": "24.99€",
+        "image": "https://ibb.co/L5HQfMc",
+        "inStock": false
+        },
+        {
+        "id": 41,
+        "name": "Produit Deadpool 5",
+        "price": "24.99€",
+        "image": "https://ibb.co/BZFnq4z",
+        "inStock": true
+        },
+        {
+        "id": 42,
+        "name": "Produit Deadpool 6",
+        "price": "24.99€",
+        "image": "https://ibb.co/8DPgsFW",
+        "inStock": false
+        }
+        ]
+        }
+        ]
